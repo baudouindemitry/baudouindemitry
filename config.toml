@@ -1,0 +1,51 @@
+baseurl                  = "/"           # Your domain name
+languageCode             = "fr-fr"
+defaultContentLanguage   = "fr"
+isMultilingual           = false
+title                    = "Baudouin de Mitry"
+# theme                    = "github.com/victoriadrake/hugo-theme-sam"    # pull in theme as hugo module 
+theme                  = "sam"                      # install theme locally (git clone or submodule)
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "sam.ico"
+    homepage             = "accueil"                           # What to call the home page link, link will not be rendered if empty
+    footerText           = "Droits de reproduction réservés pour tous pays."
+
+# Metadata for Open Graph and Twitter
+    description          = "Si scires donum Dei. (Jn. IV, 10)."               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Baudouin de Mitry"
+    # rss                = ""
+
+[[params.videoBackground.sources]]
+    source  = "/sample_video.mp4"
+    type    = "video/mp4"
+    poster  = "/background.png"
+[params.videoBackground]
+    overlay = "rgba(0, 0, 0, 0.4)" # optional
+
+[[params.mainMenu]]
+    link = "posts"
+    text = "tous les articles"
+
+[[params.mainMenu]]
+    link = "https://www.lerougeetlenoir.org/auteur/baudouin-de-mitry"
+    text = "articles sur le rouge & le noir"
+
+[[params.mainMenu]]
+    link = "https://www.twitter.com/baudouindemitry"
+    text = "twitter"
+
+[[params.mainMenu]]
+    link = "about"
+    text = "qui est baudouin de mitry ?"
+
+[imaging]
+    quality = 75
+    
+
