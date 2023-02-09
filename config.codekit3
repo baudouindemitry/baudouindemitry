@@ -2071,6 +2071,14 @@
       "oAP" : "\/build\/LICENSE",
       "oF" : 0
     },
+    "\/package.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/build\/package.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
+    },
     "\/public\/404.html" : {
       "cB" : 0,
       "ft" : 8192,
