@@ -2077,14 +2077,6 @@
       "oAP" : "\/build\/node_modules",
       "oF" : 0
     },
-    "\/package-lock.json" : {
-      "ft" : 524288,
-      "oA" : 1,
-      "oAP" : "\/build\/package-lock.json",
-      "oF" : 0,
-      "oO" : 0,
-      "oS" : 1
-    },
     "\/package.json" : {
       "ft" : 524288,
       "oA" : 1,
