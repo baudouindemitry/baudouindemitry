@@ -1991,14 +1991,6 @@
       "oAP" : "\/build\/layouts\/_default\/baseof.html",
       "oF" : 0
     },
-    "\/layouts\/_default\/home.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/layouts\/_default\/home.html",
-      "oF" : 0
-    },
     "\/layouts\/_default\/list.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2013,14 +2005,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/build\/layouts\/_default\/single.html",
-      "oF" : 0
-    },
-    "\/layouts\/_default\/taxonomy.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/layouts\/_default\/taxonomy.html",
       "oF" : 0
     },
     "\/layouts\/404.html" : {
@@ -2047,14 +2031,6 @@
       "oAP" : "\/build\/layouts\/index.html",
       "oF" : 0
     },
-    "\/layouts\/partials\/css.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/layouts\/partials\/css.html",
-      "oF" : 0
-    },
     "\/layouts\/partials\/date.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2063,28 +2039,12 @@
       "oAP" : "\/build\/layouts\/partials\/date.html",
       "oF" : 0
     },
-    "\/layouts\/partials\/favicons.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/layouts\/partials\/favicons.html",
-      "oF" : 0
-    },
     "\/layouts\/partials\/get_tags.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/build\/layouts\/partials\/get_tags.html",
-      "oF" : 0
-    },
-    "\/layouts\/partials\/metadata.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/layouts\/partials\/metadata.html",
       "oF" : 0
     },
     "\/layouts\/partials\/tag_cloud.html" : {
