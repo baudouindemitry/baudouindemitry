@@ -2063,6 +2063,30 @@
       "oAP" : "\/build\/layouts\/partials\/get_tags.html",
       "oF" : 0
     },
+    "\/layouts\/partials\/head\/css.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/layouts\/partials\/head\/css.html",
+      "oF" : 0
+    },
+    "\/layouts\/partials\/head\/favicons.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/layouts\/partials\/head\/favicons.html",
+      "oF" : 0
+    },
+    "\/layouts\/partials\/head\/metadata.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/layouts\/partials\/head\/metadata.html",
+      "oF" : 0
+    },
     "\/layouts\/partials\/tag_cloud.html" : {
       "cB" : 0,
       "ft" : 8192,
