@@ -43,4 +43,4 @@ Disait en les voyant :
 Amour à la plus belle,  
 Honneur au plus vaillant.
 
-—Hymne "officieux" du Second Empire. Composé par Hortense de Beauharnais (mère de Napoléon III) et Alexandre de Laborde vers 1807.
+—Hymne &laquo;&nbsp;officieux&nbsp;&raquo; du Second Empire. Composé par Hortense de Beauharnais (mère de Napoléon III) et Alexandre de Laborde vers 1807.
