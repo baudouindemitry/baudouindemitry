@@ -10,14 +10,14 @@ Le pape Benoit XVI était perçu come un ami d’Israël, malgré le fait qu’i
 
 Son prédécesseur Jean-Paul II s’avéra plus réticent à affronter la violence inhérente au mahométanisme. Il se résigna pourtant à respecter Israël, où il se rendit même en 2000 lors d’un voyage qui fut perçu comme un geste amical envers le peuple de ce pays. L’un comme l’autre, au demeurant, de ces deux papes étaient, en tout état de cause, des défenseurs acharnés du concile Vatican II, qui avait, dans la déclaration [_Nosta aetate_](http://fr.wikipedia.org/wiki/Nostra_%C3%86tate#Juda.C3.AFsme), rejeté certaines formes d’antijudaïsme dont, notamment, l’accusation de déïcide.
 
-Mais le pape François a manifestement choisi de mettre fin à cette ère de relations courtoises, comme vient de le [rapporter](http://www.jpost.com/Opinion/Columnists/Pope-Franciss-unfriendly-visit-354557) le _Jerusalem Post_ :
+Mais le pape François a manifestement choisi de mettre fin à cette ère de relations courtoises, comme vient de le [rapporter](http://www.jpost.com/Opinion/Columnists/Pope-Franciss-unfriendly-visit-354557) le *Jerusalem Post* :
 
 > Nétanyahou mentionna, — ce fut l’une de ses affirmations les plus candides lors du voyage papal, — que Jésus parlait l’hébreu. Il n’y avait rien d’incorrect à cette affirmation. […]
-> 
+>
 > Mais François ne supporte pas la vérité. Il interrompit donc sans délicatesse aucune son hôte en interjetant : « araméen. »
-> 
+>
 > Nétanyahou fut sans doute agaçé. De fait, à l’époque du Christ, les juifs instruits, dont il faisait partie, s’exprimaient, à l’oral comme à l’écrit, en araméen. Mais le peuple, lui, parlait hébreu. C’est donc bien en hébreu que Jésus prêcha devant le peuple.
-> 
+>
 > Nétanyahou répondit donc: « Il parlait l’araméen, mais Il connaissait l’hébreu. »
 
 Le successeur de saint Pierre a ainsi semblé accréditer, par ses propos sur Notre Seigneur Jésus-Christ, la version mahométane selon laquelle ce dernier ne serait pas juif, mais « palestinien ».
@@ -26,10 +26,11 @@ De fait, toute l’attitude du Pape, lors de cette visite, a marqué une rupture
 
 Le Pape alla ensuite se « recueillir » devant la [barrière de séparation](http://fr.wikipedia.org/wiki/Barri%C3%A8re_de_s%C3%A9paration_isra%C3%A9lienne) construite par Israël depuis 2002 protéger la population israélienne en empêchant physiquement toute intrusion de terroristes sur son territoire. Cette opération, dont l’impact médiatique fut évidemment énorme, renforça encore le message anti-israélien envoyé au monde par François.
 
-<figure itemscope="" itemtype="http://schema.org/CreativeWork" class="figure-container" style="width: 500px">![Le Pape en Israël](http://economienumerique.s3.amazonaws.com/posts/Pope-Francis-prays-at-Isr_500.jpg "La Pape François en Israël")
-
-<figcaption itemprop="description">**Le Pape François se « recueillant » devant la barrière de séparation israélienne**</figcaption>
-
+<figure itemscope itemtype="http://schema.org/CreativeWork" class="figure-container" >
+<img itemprop="image" src="/content/images/le-pape-prie-devant-le-mur.jpg" title="Le pape en Israël">
+<figcaption itemprop="description">
+Le Pape François se « recueillant » devant la barrière de séparation israélienne
+</figcaption>	
 </figure>
 
 Puis lors de sa visite de Jérusalem, le Pape embrassa le moufti arabe de cette ville, le cheik Mahomet Hussein. S’écartant comme à son habitude du texte préparé qui qualifiait ses interlocuteurs de « chers amis », il les appella « mes frères ». Or, — et François le savait parfaitement, — ce Hussein a été condamné par les gouvernements occidentaux, européens comme américains, pour ses appels à annihiler les juifs, [affirmant](http://www.islamisation.fr/archive/2012/01/23/tuez-les-juifs-le-mufti-de-jerusalem-provoque-un-tolle-en-s.html) notamment, en 2012, que c’était la destinée des mahométans de tuer les juifs, qui seraient, selon lui, des « sous-hommes » et des ennemis du dieu Allah. Il loua aussi les terroristes kamikazes, affirmant que « leurs âmes nous indiquent le chemin à suivre. » Mais le Pape ne lui adressa aucun reproche.
@@ -38,6 +39,6 @@ Quant aux Arabes chrétiens d’Israël, François n’a même pas daigné les r
 
 Les chrétiens ne sont plus que 2 pour cent à Bethléem alors qu’ils étaient 90 pour cent en 1948.
 
-Mais comme le confie avec courage Frère Louis-Marie du monastère d’Abou Goch, [cité](http://www.jpost.com/Edition-fran%C3%A7aise/Israel/La-port%C3%A9e-politique-dun-p%C3%A8lerinage-354488) par le _Jerusalem Post_ :
+Mais comme le confie avec courage Frère Louis-Marie du monastère d’Abou Goch, [cité](http://www.jpost.com/Edition-fran%C3%A7aise/Israel/La-port%C3%A9e-politique-dun-p%C3%A8lerinage-354488) par le *Jerusalem Post* :
 
 > Il est très difficile pour un chrétien d’Orient de prendre fait et cause dans le conflit israélo-palestinien, surtout quand il vit entouré de musulmans. Toute son existence et celle de sa communauté peuvent vaciller sur une déclaration. Ainsi, il faut attendre que les chrétiens d’Orient quittent le monde musulman pour que les langues se délient.
