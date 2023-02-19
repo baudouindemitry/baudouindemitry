@@ -1,6 +1,7 @@
 baseurl                  = "/"           # Your domain name
 languageCode             = "fr-fr"
 defaultContentLanguage   = "fr"
+disableHugoGeneratorInject = "true"
 isMultilingual           = false
 title                    = "Baudouin de Mitry"
 # theme                    = "github.com/victoriadrake/hugo-theme-sam"    # pull in theme as hugo module 
