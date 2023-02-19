@@ -125,11 +125,11 @@ nav {
 
 @media (min-width: 0px) {
   .big-link {
-    font-size: 1rem; } }
+    font-size: 1.3rem; } }
 
 @media (min-width: 400px) {
   .big-link {
-    font-size: calc(1rem + 1vw); } }
+    font-size: calc(1.5rem + 1vw); } }
 
 @media (min-width: 769px) {
   .big-link {
