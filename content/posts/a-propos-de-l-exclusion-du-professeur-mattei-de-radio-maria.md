@@ -6,7 +6,7 @@ draft: false
 tags: ["catholicisme", "modernisme"]
 ---
 
-L’[exclusion](http://eponymousflower.blogspot.fr/2014/02/radio-maria-separates-itself-from.html), survenue avant-hier, du professeur [Roberto Mattei](http://en.wikipedia.org/wiki/Roberto_de_Mattei) de [Radio Maria](http://en.wikipedia.org/wiki/Radio_Maria), à la suite de son dernier article _Motus in fine velocior_ paru sur _Corrispondenza Romana_, est passée relativement inaperçue en France. Elle est pourtant symptomatique de la nouvelle persécution qui s’est abattue sur la Tradition depuis l’élection de l’actuel Souverain pontife. Elle a suscité, sur le Forum catholique, ce long commentaire de Scrutator Sapientiæ que je trouve très juste et que je reproduis ici _in extenso_ :
+L’[exclusion](http://eponymousflower.blogspot.fr/2014/02/radio-maria-separates-itself-from.html), survenue avant-hier, du professeur [Roberto Mattei](http://en.wikipedia.org/wiki/Roberto_de_Mattei) de [Radio Maria](http://en.wikipedia.org/wiki/Radio_Maria), à la suite de son dernier article _Motus in fine velocior_ paru sur _Corrispondenza Romana_, est passée relativement inaperçue en France. Elle est néanmoins symptomatique de la nouvelle persécution qui s’est abattue sur la Tradition depuis l’élection de l’actuel Souverain pontife. Elle a suscité, sur le Forum catholique, ce long commentaire de Scrutator Sapientiæ que je trouve très juste et que je reproduis ici _in extenso_ :
 
 > &laquo;&nbsp;Ne pèche pas celui qui, en toute révérence, souligne les manquements de la hiérarchie.&nbsp;&raquo;
 > 
