@@ -6,7 +6,7 @@ draft: false
 tags: ["mahométanisme", "catholicisme"]
 ---
 
-_Précision liminaire : l’objet de cet article, qui vient completer et, pour partie, répondre à la_ [Lettre ouverte à Farida Belghoul](http://lerougeetlenoir.org/les-breves/lettre-ouverte-a-farida-belghoul) _récemment publiée sur _Le Rouge et le Noir_, est de poser sur le mahométanisme, examiné globalement, un regard catholique et de porter une appréciation sur l’opportunité de l’alliance circonstancielle que certains proposent de nouer avec lui ; le point de vue exprimé sur chacun des différents acteurs cités sera en revanche strictement cantonné au seul for externe, excluant tout jugement sur la nature et la valeur de leurs convictions et mérites personnels._
+Précision liminaire : l’objet de cet article, qui vient completer et, pour partie, répondre à la _[Lettre ouverte à Farida Belghoul](http://lerougeetlenoir.org/les-breves/lettre-ouverte-a-farida-belghoul)_ récemment publiée sur _Le Rouge et le Noir_, est de poser sur le mahométanisme, examiné globalement, un regard catholique et de porter une appréciation sur l’opportunité de l’alliance circonstancielle que certains proposent de nouer avec lui ; le point de vue exprimé sur chacun des différents acteurs cités sera en revanche strictement cantonné au seul for externe, excluant tout jugement sur la nature et la valeur de leurs convictions et mérites personnels._
 
 * * *
 
