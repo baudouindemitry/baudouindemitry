@@ -13,13 +13,13 @@ pygmentsCodefences       = true
 [params]
     dateform             = "Mon Jan 02, 2006"
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
-    favicon              = "sam.ico"
+    favicon              = "favicon.ico"
     homepage             = "accueil"                           # What to call the home page link, link will not be rendered if empty
     footerText           = "Droits de reproduction réservés pour tous pays."
 
 # Metadata for Open Graph and Twitter
     description          = "Si scires donum Dei. (Jn. IV, 10)."               # Max 160 characters show in search results
-    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    images               = ["bdm.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Baudouin de Mitry"
     # rss                = ""
 
