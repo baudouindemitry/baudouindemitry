@@ -6,8 +6,6 @@ draft: false
 tags: ["israël", "société", "mahométanisme"]
 ---
 
-{{< youtube 1bgW8-0o6po >}}
-
 YouTube refuse l’accès des internautes non connectés à Google au lien de la vidéo des violences inouïes commises par des manifestants pro-&laquo;&nbsp; palestiniens&nbsp;&raquo; lors de la manifestation interdite, le 19 juillet dernier, par le préfet de police, me demandant de me connecter pour confirmer que j’ai plus de dix-huit ans.
 
 Ils n’en exigent pas tant pour des scènes d’exécution capitale, de fornication ou de propagande évangélique non simulée. On est fondé à se demander si la restriction a été introduite à la demande du Gouvernement français explicitement, ou alors spontanément pour lui faire plaisir.
