@@ -1,1 +1,7 @@
-Copyright &#169; 2012-{{ now.Format "2006" }} Baudouin de Mitry. {{ .Site.Params.footerText | markdownify }}
+{{- if .IsHome -}}
+  Copyright &#169; 2012-{{ .Site.LastChange.Format "2006" }} Baudouin de Mitry. {{ .Site.Params.footerText | markdownify }}
+{{- else if .IsNode }}
+  Copyright &#169; 2012-{{ .Lastmod.Format "2006" }} Baudouin de Mitry. {{ .Site.Params.footerText | markdownify }}
+{{- else -}}
+  Copyright &#169; {{ .Lastmod.Format "2006" }} Baudouin de Mitry. {{ .Site.Params.footerText | markdownify }}
+{{- end -}}
