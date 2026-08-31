@@ -1,5 +1,5 @@
 baseurl                  = "/"           # Your domain name
-languageCode             = "fr-fr"
+locale                   = "fr-fr"   # was languageCode, deprecated in Hugo 0.158
 defaultContentLanguage   = "fr"
 disableHugoGeneratorInject = "true"
 isMultilingual           = false

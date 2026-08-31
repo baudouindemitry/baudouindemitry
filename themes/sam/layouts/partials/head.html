@@ -6,4 +6,8 @@
 
 {{ template "_internal/twitter_cards.html" . }}
 {{ template "_internal/opengraph.html" . }}
-{{ template "_internal/google_analytics_async.html" . }}
+{{/* Hugo removed the internal template _internal/google_analytics_async.html,
+     and this call was the only thing stopping the site building on 0.165.
+     Dropped rather than migrated to _internal/google_analytics.html because
+     googleAnalytics is commented out in config.toml and the live site loads
+     no analytics whatever - so it was emitting nothing. 31 August 2026. */}}
