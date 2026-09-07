@@ -4,3 +4,21 @@
 # a one-line `npm update` read as hundreds of changed files and looked like
 # someone's work in flight.
 node_modules/
+
+# Generated output — never commit it.
+# public/ is Hugo's build destination. It was committed until 7 Sep 2026, and
+# because `hugo` only overwrites the files it regenerates, 61 stale files from
+# February 2023 shipped on every deploy — the 404 page and 14 others still
+# carrying a `hugo server` livereload script. Deploys build from source; the
+# repo has no reason to carry the output.
+public/
+
+# build/ was a duplicate copy of the whole project made in February 2023
+# (its own content/, layouts/, themes/, plus "config copy.toml" and
+# "footer 2.html" scratch files). It holds nothing unique — 0 posts, every
+# file identical to its counterpart in the project proper — and nothing
+# references it. Kept on disk, out of git.
+build/
+
+# macOS Finder droppings — 13 were tracked (cockpit TODO, 7 Sep 2026).
+.DS_Store
