@@ -1,0 +1,26 @@
+{{/*
+  Minimal 404 so the site returns a real 404 status.
+
+  ⛔ Cloudflare Pages falls back to serving index.html with HTTP 200 for every
+  unknown path when no 404.html exists. This file was 0 bytes until 7 Sep 2026,
+  so no 404 page was ever built; the one being served was a stale artefact
+  committed in public/ in February 2023, carrying a `hugo server` livereload
+  script pointing at localhost:1313.
+
+  ⚠️ THE WORDING BELOW IS A STUB. It is Baudouin's site and his French — it is
+  here only so the status code is correct, and it should be replaced with his
+  own words. Nothing else about the page needs changing: baseof.html supplies
+  the head, title, menu and footer.
+*/}}
+{{ define "section_title" }}
+<header class="wrap flex-container">
+    <h1>Page introuvable</h1>
+</header>
+{{ end }}
+
+{{ define "section_content" }}
+<article role="article" class="flex-container">
+    <p>Cette page n’existe pas ou a été déplacée.</p>
+    <p><a href="{{ "/" | relURL }}">Retour à l’accueil</a></p>
+</article>
+{{ end }}
