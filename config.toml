@@ -1,4 +1,4 @@
-baseurl                  = "/"           # Your domain name
+baseurl                  = "https://www.baudouindemitry.com/"   # canonical host — apex 301s to www
 locale                   = "fr-fr"   # was languageCode, deprecated in Hugo 0.158
 defaultContentLanguage   = "fr"
 disableHugoGeneratorInject = "true"
