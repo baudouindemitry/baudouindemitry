@@ -1,7 +1,7 @@
 {{ define "section_content" }}
 <article role="article" class="flex-container">
   {{ .Content }}
-  <p>Vous trouverez sur ce site l'ensemble des articles que j'ai écrits sur le Rouge et le Noir et sur mon blog personnel. Ils portent sur les sujets suivants&nbsp;:</p>
+  <p>Vous trouverez sur ce site l’ensemble des articles que j’ai écrits sur le Rouge et le Noir et sur mon blog personnel. Ils portent sur les sujets suivants&nbsp;:</p>
   {{ $tags := $.Site.Taxonomies.tags.ByCount }}
   {{ $v1 := where $tags "Count" ">=" 3 }}
   {{ $v2 := where $v1 "Term" "not in" (slice "hugo" "tags" "rss") }}

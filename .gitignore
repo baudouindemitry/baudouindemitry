@@ -1,0 +1,6 @@
+
+# Dependencies — installed by the deploy, never committed (7 Sept 2026).
+# They were tracked here alone among the seven site repos: 1,830 files, so
+# a one-line `npm update` read as hundreds of changed files and looked like
+# someone's work in flight.
+node_modules/
